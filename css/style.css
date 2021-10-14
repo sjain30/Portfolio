@@ -1,3 +1,48 @@
+/* 
+Colour Palette
+#E63946 - Pastel Red
+#F1FAEE - White
+#A8DADC - Sky Blue
+#457B9D - Blue
+#1D3557 - Navy Blue
+*/
+
+/* Global Styles */
+
+body {
+  color: #F1FAEE;
+  background-color: #457B9D;
+}
+
 img {
-  width: 300px;
+  width: 600px;
+}
+
+h1 {
+  color: #E63946;
+  font-size: 48px;
+  font: sen;
+}
+
+a {
+  color: peachpuff;
+}
+
+/* PROJECTS SECTION */
+.projects {
+  background-color: #A8DADC;
+  color: #457B9D;
+  padding: 8px;
+}
+
+.projects a {
+  color: #E63946;
+}
+
+footer {
+  color: #1D3557;
+  background-color: darksalmon;
+}
+footer a {
+  color: #1D3557;
 }
